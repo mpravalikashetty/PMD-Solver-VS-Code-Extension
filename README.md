@@ -16,7 +16,7 @@ Before using this extension, ensure you have the following installed:
       ![Screenshot (1130)](https://github.com/user-attachments/assets/bd7bc540-a58b-4252-bf1d-221fd11cf4da)
 
 ## Installation
-1. Download the `.vsix` file for the PMD Solver extension.
+1. Download the `.vsix` file for the PMD Solver extension provided above.
 2. Open Visual Studio Code.
 3. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side or by pressing `Ctrl+Shift+X`.
 4. Click on the three-dot menu in the top right corner.
