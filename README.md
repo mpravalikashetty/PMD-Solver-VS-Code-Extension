@@ -12,12 +12,17 @@ The PMD Solver VS Code Extension resolves below 2 common PMD Issues
 ## Prerequisites
 Before using this extension, ensure you have the following installed:
 - **Python**: This extension requires Python. You can download it from [python.org](https://www.python.org/downloads/).
+- Install below Python Extension in VS Code
+      ![Screenshot (1130)](https://github.com/user-attachments/assets/bd7bc540-a58b-4252-bf1d-221fd11cf4da)
+
 ## Installation
 1. Download the `.vsix` file for the PMD Solver extension.
 2. Open Visual Studio Code.
 3. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side or by pressing `Ctrl+Shift+X`.
 4. Click on the three-dot menu in the top right corner.
 5. Select **Install from VSIX...** and choose the downloaded `.vsix` file.
+   ![Screenshot (1131)](https://github.com/user-attachments/assets/105cb1aa-30a8-48fd-9d30-fb8898d10eba)
+
 ## Usage
 Once the extension is installed, you can use the following commands:
 1. **Apex Debug Log Level Updater**
@@ -38,8 +43,6 @@ Once the extension is installed, you can use the following commands:
     -On button of the vscode window you get below success message.
     ![Image6](https://github.com/user-attachments/assets/5e2d86aa-f484-4792-bd0f-58c468ab46ab)
 
-## Contributing
-If you'd like to contribute to this extension, feel free to submit a pull request or open an issue on the project's repository.
 
 ## Author
 **M Pravalika**
